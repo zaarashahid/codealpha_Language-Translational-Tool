@@ -17,3 +17,26 @@ Install dependencies in Google Colab:
 
 ```bash
 !pip install googletrans==4.0.0-rc1 gTTS ipywidgets
+
+Usage
+
+Open the notebook in Google Colab.
+
+Enter the text you want to translate.
+
+Select source and target languages.
+
+Click Translate to see results.
+
+Use Copy or Speak buttons for extra functionality.
+
+Example
+
+Translate English → Spanish:
+
+Hello, how are you?
+➡️ Hola, ¿cómo estás?
+
+License
+
+This project is licensed under the MIT License.
