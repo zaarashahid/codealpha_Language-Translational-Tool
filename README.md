@@ -1,5 +1,6 @@
 # translation-tool
 A Python-based translation application with an interactive UI. Features include text input, source &amp; target language selection, translation via Googletrans API, copy functionality, and text-to-speech output. Perfect for learning or small-scale projects.
+<img width="876" height="368" alt="image" src="https://github.com/user-attachments/assets/31fb61a1-fb12-4d1d-a96c-c95459d3d315" />
 
 # Translation Tool
 
@@ -30,13 +31,13 @@ Click Translate to see results.
 
 Use Copy or Speak buttons for extra functionality.
 
-Example
+## Example
 
 Translate English → Spanish:
 
 Hello, how are you?
 ➡️ Hola, ¿cómo estás?
 
-License
+## License
 
 This project is licensed under the MIT License.
